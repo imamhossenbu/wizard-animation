@@ -58,7 +58,7 @@ var tl2=gsap.timeline({
         start:"top 50%",
         end:"top -50%",
         scrub:1,
-        markers:true,
+        markers:false,
     }
 })
 tl2.from(".section2 h3",{
